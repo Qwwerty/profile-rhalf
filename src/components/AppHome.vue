@@ -79,8 +79,9 @@
                   <p class="lead">Eu sou Desenvolvedor Web</p>
                   <p>
                     <a
+                      style="background-color: #324662; color:white"
                       href="#portfolio-section"
-                      class="btn smoothscroll btn-primary"
+                      class="btn smoothscroll"
                       >Portfólio</a
                     >
                   </p>
@@ -91,10 +92,10 @@
         </div>
 
         <img
-          src="images/face.png"
+          src="images/thumbnail_ralph.png"
           alt="Image"
           class="img-face"
-          data-aos="fade"
+          width="700px"
         />
       </div>
 
@@ -111,11 +112,9 @@
                   <span class="icon-style"></span>
                 </div>
                 <div class="service-about">
-                  <h3>UI/UX Designer</h3>
+                  <h3>Web App</h3>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Perferendis ipsum error eligendi molestiae eaque quas,
-                    ducimus sequi excepturi?
+                    Desenvolvimento de aplicativos web, utilizando PWA.
                   </p>
                 </div>
               </div>
@@ -127,11 +126,9 @@
                   <span class="icon-business_center"></span>
                 </div>
                 <div class="service-about">
-                  <h3>Web Development</h3>
+                  <h3>Java Desktop</h3>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Perferendis ipsum error eligendi molestiae eaque quas,
-                    ducimus sequi excepturi?
+                    Desenvolvimento de aplicações desktop, utilizando a linguagem de programação Java.
                   </p>
                 </div>
               </div>
@@ -143,11 +140,12 @@
                   <span class="icon-desktop_windows"></span>
                 </div>
                 <div class="service-about">
-                  <h3>Brand &amp; Logo Design</h3>
+                  <h3>Criação e Manutenço em banco de dados</h3>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Perferendis ipsum error eligendi molestiae eaque quas,
-                    ducimus sequi excepturi?
+                    <ul>
+                      <li>Mysql</li>
+                      <li>Postgresql</li>
+                    </ul>
                   </p>
                 </div>
               </div>
@@ -161,9 +159,7 @@
                 <div class="service-about">
                   <h3>Web Design</h3>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Perferendis ipsum error eligendi molestiae eaque quas,
-                    ducimus sequi excepturi?
+                    Criação de sites estáticos em HTML, CSS e JAVASCRIPT
                   </p>
                 </div>
               </div>
@@ -180,7 +176,7 @@
             </div>
             <div class="col-lg-4 order-1 order-lg-2 mb-4 mb-lg-0">
               <div class="bg-light pt-5">
-                <img src="images/face.png" alt="Image" class="img-fluid" />
+                <img src="images/thumbnail_ralph.png" alt="Image" class="img-fluid" />
               </div>
             </div>
             <div class="col-lg-4 order-2 order-lg-1">
@@ -221,83 +217,32 @@
             <div
               class="item web col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-4"
             >
-              <a href="images/post_2.jpg" class="item-wrap fancybox">
+              <a href="images/paralisia-site.png" class="item-wrap fancybox">
                 <span class="icon-search2"></span>
-                <img class="img-fluid" src="images/post_2.jpg" />
+                <img class="img-fluid" src="images/paralisia-site.png" />
               </a>
+              <a
+                  href="https://pdi-digital.herokuapp.com/"
+                  class="btn btn-primary"
+                  value="Acessar"
+                  style="color: white;"
+                >Acessar</a>
             </div>
             <div
               class="item web col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-4"
             >
-              <a href="images/post_3.jpg" class="item-wrap fancybox">
+              <a href="images/fisio.png" class="item-wrap fancybox">
                 <span class="icon-search2"></span>
-                <img class="img-fluid" src="images/post_3.jpg" />
+                <img class="img-fluid" src="images/fisio.png" />
               </a>
+              <a
+                  href="http://fisioweb-com-br.umbler.net/"
+                  class="btn btn-primary"
+                  value="Acessar"
+                  style="color: white;"
+                >Acessar</a>
             </div>
-
-            <div
-              class="item brand col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-4"
-            >
-              <a href="images/post_4.jpg" class="item-wrap fancybox">
-                <span class="icon-search2"></span>
-                <img class="img-fluid" src="images/post_4.jpg" />
-              </a>
-            </div>
-
-            <div
-              class="item design col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-4"
-            >
-              <a href="images/post_5.jpg" class="item-wrap fancybox">
-                <span class="icon-search2"></span>
-                <img class="img-fluid" src="images/post_5.jpg" />
-              </a>
-            </div>
-
-            <div
-              class="item web col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-4"
-            >
-              <a href="images/post_6.jpg" class="item-wrap fancybox">
-                <span class="icon-search2"></span>
-                <img class="img-fluid" src="images/post_6.jpg" />
-              </a>
-            </div>
-
-            <div
-              class="item brand col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-4"
-            >
-              <a href="images/post_2.jpg" class="item-wrap fancybox">
-                <span class="icon-search2"></span>
-                <img class="img-fluid" src="images/post_2.jpg" />
-              </a>
-            </div>
-
-            <div
-              class="item web col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-4"
-            >
-              <a href="images/post_3.jpg" class="item-wrap fancybox">
-                <span class="icon-search2"></span>
-                <img class="img-fluid" src="images/post_3.jpg" />
-              </a>
-            </div>
-
-            <div
-              class="item design col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-4"
-            >
-              <a href="images/post_4.jpg" class="item-wrap fancybox">
-                <span class="icon-search2"></span>
-                <img class="img-fluid" src="images/post_4.jpg" />
-              </a>
-            </div>
-
-            <div
-              class="item web col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-4"
-            >
-              <a href="images/post_6.jpg" class="item-wrap fancybox">
-                <span class="icon-search2"></span>
-                <img class="img-fluid" src="images/post_6.jpg" />
-              </a>
-            </div>
-          </div>
+        </div>
         </div>
       </section>
 
@@ -334,35 +279,6 @@
                 </p>
                 <p><cite>&mdash; Benjamin Franklin</cite></p>
               </blockquote>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <section class="site-section" id="clients-section">
-        <div class="container">
-          <div class="row">
-            <div class="col-12 mb-5 position-relative">
-              <h2 class="section-title text-center">Clientes</h2>
-            </div>
-            <div class="col-6 col-sm-6 col-md-4 col-lg-4 text-center">
-              <img src="images/logo_1.jpg" alt="Image" class="img-fluid" />
-            </div>
-            <div class="col-6 col-sm-6 col-md-4 col-lg-4 text-center">
-              <img src="images/logo_2.jpg" alt="Image" class="img-fluid" />
-            </div>
-            <div class="col-6 col-sm-6 col-md-4 col-lg-4 text-center">
-              <img src="images/logo_3.jpg" alt="Image" class="img-fluid" />
-            </div>
-            <div class="col-6 col-sm-6 col-md-4 col-lg-4 text-center">
-              <img src="images/logo_4.jpg" alt="Image" class="img-fluid" />
-            </div>
-
-            <div class="col-6 col-sm-6 col-md-4 col-lg-4 text-center">
-              <img src="images/logo_5.jpg" alt="Image" class="img-fluid" />
-            </div>
-            <div class="col-6 col-sm-6 col-md-4 col-lg-4 text-center">
-              <img src="images/logo_6.jpg" alt="Image" class="img-fluid" />
             </div>
           </div>
         </div>
@@ -431,7 +347,7 @@
                 <input
                   type="submit"
                   class="btn btn-primary"
-                  value="Send Message"
+                  value="Enviar"
                 />
               </div>
             </div>
@@ -443,7 +359,7 @@
         <div class="container">
           <div class="row mb-5">
             <div class="col-md-3">
-              <h3 class="footer-title">Me Address</h3>
+              <h3 class="footer-title">Meu endereço</h3>
               <p>
                 Ubá, Minas Gerais, Brasil
               </p>
@@ -454,30 +370,13 @@
                   <h3 class="footer-title">Serviços</h3>
                   <ul class="list-unstyled">
                     <li><a href="#">Web</a></li>
-                    <li><a href="#">Graphic</a></li>
-                    <li><a href="#">Branding</a></li>
-                  </ul>
-                </div>
-                <div class="col-lg-4">
-                  <h3 class="footer-title">Resources</h3>
-                  <ul class="list-unstyled">
-                    <li><a href="#">Web App</a></li>
-                    <li><a href="#">Graphic</a></li>
-                    <li><a href="#">Branding</a></li>
-                  </ul>
-                </div>
-                <div class="col-lg-4">
-                  <h3 class="footer-title">Links</h3>
-                  <ul class="list-unstyled">
-                    <li><a href="#">Web App</a></li>
-                    <li><a href="#">Graphic</a></li>
-                    <li><a href="#">Branding</a></li>
+                    <li><a href="#">Desktop</a></li>
                   </ul>
                 </div>
               </div>
             </div>
-            <div class="col-md-3">
-              <h3 class="footer-title">Follow Me</h3>
+            <div class="col-md-3" id="links">
+              <h3 class="footer-title">Siga Me</h3>
               <a href="#" class="social-circle"
                 ><span class="icon-twitter"></span
               ></a>
@@ -501,10 +400,6 @@
               <p>
                 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                 Copyright &copy;
-                All rights reserved | This template is made with
-                <i class="icon-heart text-danger" aria-hidden="true"></i> by
-                <a href="https://colorlib.com" target="_blank">Colorlib</a>
-                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
               </p>
             </div>
           </div>
@@ -522,4 +417,31 @@ export default {
 };
 </script>
 
-<style></style>
+<style>
+
+#links  a{
+  font-size: 30px;
+  margin-left: 20px;
+}
+
+.site-navbar .site-logo a {
+  color: #324662 !important;
+}
+
+.nav-link:hover {
+ color: aqua !important;
+}
+
+.sticky-wrapper .site-navbar .site-menu > li > a:hover, .sticky-wrapper .site-navbar .site-menu > li > a.active {
+  color:rgb(96, 96, 184) !important;
+}
+
+.service .service-number span {
+  background-color: #324662;
+}
+
+.btn.btn-primary {
+  background-color: #324662;
+}
+
+</style>
